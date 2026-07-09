@@ -154,7 +154,8 @@ Main circuit sections:
 
 ## Authors
 
-Alperen Çelik  
-Emre Kurdoğlu  
+Alperen Çelik ([@Borzelliuz](https://github.com/Borzelliuz)) 
+
+Emre Kurdoğlu ([@KokuseNN](https://github.com/KokuseNN)) 
 
 Computer Engineering Students
